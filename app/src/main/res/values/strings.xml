@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">practice</string>
+    <string name="title_activity_dialog">Dialog</string>
+    <string name="title_activity_side_effect">SideEffect</string>
+    <string name="title_activity_simple_dialog">SimpleDialog</string>
+    <string name="title_activity_persistent_bs">PersistentBS</string>
+    <string name="title_activity_compose_animation">ComposeAnimation</string>
+    <string name="title_activity_capractice">capractice</string>
+    <string name="title_activity_capractice2">capractice2</string>
+    <string name="title_activity_coroutine">Coroutine</string>
+    <string name="title_activity_modal_bottom_sheet">ModalBottomSheet</string>
+    <string name="title_activity_launched_effect">LaunchedEffect</string>
+    <string name="title_activity_disposable_effect">DisposableEffect</string>
+    <string name="title_activity_combined_effect">CombinedEffect</string>
+    <string name="title_activity_ca1setb">Ca1setb</string>
+</resources>
